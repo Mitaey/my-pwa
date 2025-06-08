@@ -1,0 +1,10 @@
+
+{
+  "name": "SmartClipper Lite",
+  "short_name": "SmartClipper",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Clip videos and remove watermarks.",
+  "icons": []
+}
